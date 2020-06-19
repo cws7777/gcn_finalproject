@@ -1,1 +1,2 @@
-# gcn_finalproject
+# gcn_final_project link
+GCN class from Seoul National Univeristy
